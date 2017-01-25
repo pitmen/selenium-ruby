@@ -20,9 +20,6 @@ element.submit
 # impprime o título da página
 puts driver.title
 
-# Valida se o título está correto
-expect(driver.title()).to eq("Googli")
-
 # Imprime mensagem antes de fechar
 puts 'fim do teste, browser será encerrado!'
 
