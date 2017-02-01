@@ -1,3 +1,3 @@
-# selenium-ruby
+# selenium-ruby #
 
 Testes iniciais com Selenium usando Ruby.
