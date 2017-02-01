@@ -1,3 +1,5 @@
 # selenium-ruby #
 
-Testes iniciais com Selenium usando Ruby. (Teste)♫
+## Projeto de Selenium com Ruby
+
+Criei esse repositório para adicionar meus experimentos e estudos em Ruby.
